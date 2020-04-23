@@ -1,3 +1,6 @@
+body {
+  font-family: arial,sans-serif;
+}
 #google-image {
   display: block;
   margin: auto;
@@ -9,4 +12,16 @@
   border-radius: 5px;
   width: 500px;
   height: 30px;
+}
+#left-top {
+  float: left;
+}
+#right-top {
+  float:right;
+}
+a {
+  color: #000;
+  opacity: 0.75;
+  text-decoration: none;
+  font-size: 13px;
 }
